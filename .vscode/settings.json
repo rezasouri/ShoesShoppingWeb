@@ -1,0 +1,16 @@
+{
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.singleQuote": true,
+  "eslint.packageManager": "yarn",
+  "javascript.format.semicolons": "insert",
+  "prettier.semi": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
