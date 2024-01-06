@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ShoesShoppingWeb/static/css/main.e6c13ad2.css",
+    "main.js": "/ShoesShoppingWeb/static/js/main.19efd5dd.js",
+    "static/media/s3.png": "/ShoesShoppingWeb/static/media/s3.4b0d3a23e03af4af9dc2.png",
+    "static/media/s1.png": "/ShoesShoppingWeb/static/media/s1.c01b77a50c2a0fdf2161.png",
+    "static/media/s2.png": "/ShoesShoppingWeb/static/media/s2.dde885db6ebdf6bcaeda.png",
+    "static/media/shoes.png": "/ShoesShoppingWeb/static/media/shoes.6388c1ef53f2a698836b.png",
+    "static/media/logo.png": "/ShoesShoppingWeb/static/media/logo.03133ea608215f3e6b15.png",
+    "static/media/avatar.png": "/ShoesShoppingWeb/static/media/avatar.4adaf47d0649bfd00c24.png",
+    "static/media/cart.png": "/ShoesShoppingWeb/static/media/cart.0ac42837e3e62d6687ef.png",
+    "static/media/menu.png": "/ShoesShoppingWeb/static/media/menu.32bf01fd28ea0b2d1826.png",
+    "index.html": "/ShoesShoppingWeb/index.html",
+    "main.e6c13ad2.css.map": "/ShoesShoppingWeb/static/css/main.e6c13ad2.css.map",
+    "main.19efd5dd.js.map": "/ShoesShoppingWeb/static/js/main.19efd5dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19efd5dd.js"
+  ]
+}
